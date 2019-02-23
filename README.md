@@ -1,24 +1,24 @@
 # plan-generator-service
 
-**PREREQUISITE TO RUN THE plan-generator-service**
+**PREREQUISITE TO RUN plan-generator-service**
 
-    1. Git version control software should be installed in the System
-    2. Maven should be installed and setup correctly in environment variable.
+    1. Git version control software should be installed in the System.
+    2. Maven should be installed and setup correctly in the environment variable.
     
 **APPLICATION DEPENDENCIES**
 
     1. JDK 8
     2. Spring Boot 2.0
-    3. Spring Restful Service
+    3. Spring Rest
     4. Spring fox Swagger 2.0
     5. Lombok
     
 **STEPS TO RUN ON LOCAL**
 
-    1. Clone plan generator service in your system using git clone https://github.com/71mayank/plan-generator-service.git
+    1. Clone plan-generator-service in your system using git clone https://github.com/71mayank/plan-generator-service.git
     2. Navigate to plan-generator-service folder and run command mvn spring-boot:run
     3. Browse url http://localhost:8080/swagger-ui.html
-    4. After running below sample request JSON output can be seen in the console.
+    4. After running below sample request JSON output can be seen in the bash console.
     
 **SAMPLE REQUEST**
 
