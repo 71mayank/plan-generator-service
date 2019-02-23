@@ -18,7 +18,7 @@
     1. Clone plan generator service in your system using git clone https://github.com/71mayank/plan-generator-service.git
     2. Navigate to plan-generator-service folder and run command mvn spring-boot:run
     3. Browse url http://localhost:8080/swagger-ui.html
-    4. After running below sample on bash - JSON output can be seen in the console.
+    4. After running below sample request JSON output can be seen in the console.
     
 **SAMPLE REQUEST**
 
