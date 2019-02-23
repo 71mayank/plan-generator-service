@@ -10,7 +10,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import za.co.plan.request.PlanGeneratorRequest;
 import za.co.plan.response.PlanGeneratorResponse;
-
 import java.math.BigDecimal;
 import java.math.MathContext;
 import java.time.LocalDateTime;
